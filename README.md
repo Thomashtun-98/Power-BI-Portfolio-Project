@@ -8,5 +8,6 @@ This Power-BI report project is developed based on my analysis methods. I used t
 -How much total profit does each brand make?
 -What are the brand trends and total sales figures by year?
 -Who is the top distributor?
-## DashBoard 
+
+
 
